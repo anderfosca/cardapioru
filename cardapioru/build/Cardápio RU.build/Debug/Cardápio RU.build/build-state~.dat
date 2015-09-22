@@ -1,0 +1,68 @@
+TCardápio RU
+v7
+r1
+cCheck dependencies
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/MainWindow.xib
+c000000004ED11E0A0000000000004E65
+t1322327562
+s20069
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/RU_APP_ICON_IOS.png
+c000000004ED19FBD0000000000002A21
+t1322360765
+s10785
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/TesteIphone1ViewController.xib
+c000000004ED2E73D000000000000DA6D
+t1322444605
+s55917
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug/Cardápio RU.app
+t2
+s0
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug/Cardápio RU.app/Contents/Info.plist
+t2
+s0
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug/Cardápio RU.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug/Cardápio RU.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug/Cardápio RU.app/Contents/Resources/RU_APP_ICON_IOS.png
+t2
+s0
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug/Cardápio RU.app/Contents/Resources/TesteIphone1ViewController.nib
+t2
+s0
+
+NCardápio RU-Info.plist
+c000000004ED1A04900000000000003A0
+t1322360905
+s928
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies363749623#363749623#0(63"[BEROR]error: There is no SDK with the name or path 'iphoneos'1(4@55"error: There is no SDK with the name or path 'iphoneos'363749623#18446744073709551615#0#0(1@0"0(0#1#0"32651522506817640#0"0#
+
+CCompileXIB /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/MainWindow.xib
+r0
+
+CCompileXIB /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/TesteIphone1ViewController.xib
+r0
+
+CCpResource "build/Debug/Cardápio RU.app/Contents/Resources/RU_APP_ICON_IOS.png" RU_APP_ICON_IOS.png
+r0
+
+CProcessInfoPlistFile "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug/Cardápio RU.app/Contents/Info.plist" "Cardápio RU-Info.plist"
+r0
+
+CTouch "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug/Cardápio RU.app"
+r0
+

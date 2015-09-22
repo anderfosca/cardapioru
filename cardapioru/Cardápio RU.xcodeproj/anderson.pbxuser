@@ -1,0 +1,277 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TesteIphone1AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {737, 444}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 516}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TesteIphone1AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1118}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1116}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Cardápio RU */ = {
+		activeExec = 0;
+		executables = (
+			71994CFE1481558A0064189E /* Cardápio RU */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* TesteIphone1ViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {845, 444}}";
+			sepNavSelRange = "{714, 0}";
+			sepNavVisRange = "{0, 906}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TesteIphone1ViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 3497}}";
+			sepNavSelRange = "{165, 1}";
+			sepNavVisRange = "{0, 1099}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 71994CFE1481558A0064189E /* Cardápio RU */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Cardápio RU */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Cardápio RU */,
+		);
+		codeSenseManager = 71994D0E148155980064189E /* Code sense */;
+		executables = (
+			71994CFE1481558A0064189E /* Cardápio RU */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					447,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					559,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					519,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 363920060;
+			PBXWorkspaceStateSaveDate = 363920060;
+		};
+		perUserProjectItems = {
+			7197984D15B0FBEA00318F19 /* PBXBookmark */ = 7197984D15B0FBEA00318F19 /* PBXBookmark */;
+			7197984E15B0FBEA00318F19 /* PBXTextBookmark */ = 7197984E15B0FBEA00318F19 /* PBXTextBookmark */;
+			7197984F15B0FBEA00318F19 /* PBXTextBookmark */ = 7197984F15B0FBEA00318F19 /* PBXTextBookmark */;
+			7197985015B0FBEA00318F19 /* PlistBookmark */ = 7197985015B0FBEA00318F19 /* PlistBookmark */;
+			7197985115B0FBEA00318F19 /* PBXTextBookmark */ = 7197985115B0FBEA00318F19 /* PBXTextBookmark */;
+			7197985215B0FBEA00318F19 /* PBXTextBookmark */ = 7197985215B0FBEA00318F19 /* PBXTextBookmark */;
+			7197985315B0FBEA00318F19 /* PBXTextBookmark */ = 7197985315B0FBEA00318F19 /* PBXTextBookmark */;
+			7197985415B0FBEA00318F19 /* PBXTextBookmark */ = 7197985415B0FBEA00318F19 /* PBXTextBookmark */;
+			7197985515B0FBEA00318F19 /* PBXTextBookmark */ = 7197985515B0FBEA00318F19 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 71994D0D148155980064189E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {737, 444}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 373}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Cardápio RU_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {737, 444}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 193}";
+		};
+	};
+	7197984D15B0FBEA00318F19 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 71C8E1161481D77A00433273 /* RU_APP_ICON_IOS.png */;
+	};
+	7197984E15B0FBEA00318F19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Cardápio RU_Prefix.pch */;
+		name = "Cardápio RU_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 193;
+		vrLoc = 0;
+	};
+	7197984F15B0FBEA00318F19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 0;
+	};
+	7197985015B0FBEA00318F19 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Cardápio RU-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Cardápio RU-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	7197985115B0FBEA00318F19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TesteIphone1AppDelegate.m */;
+		name = "TesteIphone1AppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1116;
+		vrLoc = 0;
+	};
+	7197985215B0FBEA00318F19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TesteIphone1AppDelegate.h */;
+		name = "TesteIphone1AppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 516;
+		vrLoc = 0;
+	};
+	7197985315B0FBEA00318F19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TesteIphone1ViewController.h */;
+		name = "TesteIphone1ViewController.h: 20";
+		rLen = 0;
+		rLoc = 714;
+		rType = 0;
+		vrLen = 906;
+		vrLoc = 0;
+	};
+	7197985415B0FBEA00318F19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TesteIphone1ViewController.m */;
+		name = "TesteIphone1ViewController.m: 6";
+		rLen = 0;
+		rLoc = 111;
+		rType = 0;
+		vrLen = 1099;
+		vrLoc = 0;
+	};
+	7197985515B0FBEA00318F19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TesteIphone1ViewController.m */;
+		name = "TesteIphone1ViewController.m: 8";
+		rLen = 1;
+		rLoc = 165;
+		rType = 0;
+		vrLen = 1099;
+		vrLoc = 0;
+	};
+	71994CFE1481558A0064189E /* Cardápio RU */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Cardápio RU";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	71994D0D148155980064189E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	71994D0E148155980064189E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	71C8E1161481D77A00433273 /* RU_APP_ICON_IOS.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 58}, {1152, 720}}";
+		};
+	};
+	8D1107310486CEB800E47090 /* Cardápio RU-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 58}, {1152, 720}}";
+		};
+	};
+}

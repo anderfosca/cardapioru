@@ -1,0 +1,336 @@
+TCardápio RU
+v7
+r0
+t344454813.280812
+cCheck dependencies
+cProcessInfoPlistFile "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Info.plist" "Cardápio RU-Info.plist"
+cCompileXIB /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/MainWindow.xib
+cCompileXIB /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/TesteIphone1ViewController.xib
+cCpResource "build/Debug-iphonesimulator/Cardápio RU.app/RU_APP_ICON_IOS.png" RU_APP_ICON_IOS.png
+cProcessPCH "/var/folders/WA/WAT6qenFGPKPWoUrLz--JE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cardápio RU_Prefix-abkmtijapljxilepenujbmqtinhh/Cardápio RU_Prefix.pch.gch" "Cardápio RU_Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/main.o" /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/TesteIphone1AppDelegate.o" /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/TesteIphone1ViewController.o" /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Cardápio RU" normal i386
+cGenerateDSYMFile "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app.dSYM" "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Cardápio RU"
+cTouch "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Cardápio RU_Prefix.pch
+c000000004ED11E0A00000000000000C1
+t1322327562
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Cardápio RU_Prefix.pch
+c000000004ED11E0A00000000000000C1
+t1322327562
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1AppDelegate.h
+c000000004ED11E0A0000000000000204
+t1322327562
+s516
+i<UIKit/UIKit.h>
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1AppDelegate.m
+c000000004ED11E0A0000000000000ACA
+t1322327562
+s2762
+i"TesteIphone1AppDelegate.h"
+i"TesteIphone1ViewController.h"
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1ViewController.h
+c000000004ED2E419000000000000038A
+t1322443801
+s906
+i<UIKit/UIKit.h>
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1ViewController.m
+c000000004ED2E4300000000000002268
+t1322443824
+s8808
+i"TesteIphone1ViewController.h"
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/MainWindow.xib
+c000000004ED11E0A0000000000004E65
+t1322327562
+s20069
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/RU_APP_ICON_IOS.png
+c000000004ED19FBD0000000000002A21
+t1322360765
+s10785
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/TesteIphone1ViewController.xib
+c000000004ED2E73D000000000000DA6D
+t1322444605
+s55917
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/Cardápio RU.LinkFileList
+c000000004ED25ADE00000000000001F4
+t1322408670
+s500
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/Cardápio RU.LinkFileList
+c000000004ED1C60200000000000001F1
+t1322370562
+s497
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/TesteIphone1AppDelegate.o
+t1322443803
+s51820
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/TesteIphone1AppDelegate.o
+t1322443803
+s51820
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/TesteIphone1ViewController.o
+t1322443849
+s72608
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/TesteIphone1ViewController.o
+t1322443849
+s72608
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/main.o
+t1322370566
+s6352
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/main.o
+t1322370566
+s6352
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app
+t1322444945
+s272
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app
+t1322370644
+s272
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app.dSYM
+t1322443849
+s102
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app.dSYM
+t1322370644
+s102
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Cardápio RU
+t1322443849
+s34220
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Cardápio RU
+t1322370644
+s25004
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Info.plist
+t1322370562
+s687
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Info.plist
+t1322370562
+s687
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/MainWindow.nib
+t1322370563
+s1691
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/MainWindow.nib
+t1322370563
+s1691
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/PkgInfo
+t1322370562
+s8
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/PkgInfo
+t1322370562
+s8
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/RU_APP_ICON_IOS.png
+t1322370563
+s10785
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/RU_APP_ICON_IOS.png
+t1322370563
+s10785
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/TesteIphone1ViewController.nib
+t1322444945
+s9594
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/TesteIphone1ViewController.nib
+t1322370563
+s9584
+
+N/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/main.m
+c000000004ED11E0A0000000000000175
+t1322327562
+s373
+i<UIKit/UIKit.h>
+
+N/var/folders/WA/WAT6qenFGPKPWoUrLz--JE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cardápio RU_Prefix-abkmtijapljxilepenujbmqtinhh/Cardápio RU_Prefix.pch.gch
+t1322370565
+s15814064
+
+N/var/folders/WA/WAT6qenFGPKPWoUrLz--JE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cardápio RU_Prefix-abkmtijapljxilepenujbmqtinhh/Cardápio RU_Prefix.pch.gch
+t1322370565
+s15814064
+
+NCardápio RU-Info.plist
+c000000004ED1A04900000000000003A0
+t1322360905
+s928
+
+NCardápio RU-Info.plist
+c000000004ED1A04900000000000003A0
+t1322360905
+s928
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies344454813#344454813#0(0"0(0#1#0"32088563961233440#0"0#
+
+CCompileC "build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/TesteIphone1AppDelegate.o" /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/TesteIphone1AppDelegate.o" /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344063365.945733
+e344063366.234695
+r1
+xCompileC
+xbuild/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/TesteIphone1AppDelegate.o
+x/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1AppDelegate.m344063365#344063366#0(0"0(0#0#92"/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1AppDelegate.m8615901856#2316"    cd /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Cardápio RU-generated-files.hmap" "-I/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Cardápio RU-own-target-headers.hmap" "-I/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Cardápio RU-all-target-headers.hmap" -iquote "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Cardápio RU-project-headers.hmap" -F/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator -I/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/include "-I/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/DerivedSources/i386" "-I/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/DerivedSources" -include "/var/folders/WA/WAT6qenFGPKPWoUrLz--JE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cardápio RU_Prefix-abkmtijapljxilepenujbmqtinhh/Cardápio RU_Prefix.pch" -c /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1AppDelegate.m -o "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/TesteIphone1AppDelegate.o"0#
+
+CCompileC "build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/TesteIphone1ViewController.o" /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/TesteIphone1ViewController.o" /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344063444.123954
+e344063444.246116
+r1
+xCompileC
+xbuild/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/TesteIphone1ViewController.o
+x/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1ViewController.m344063444#344063444#0(0"0(0#0#95"/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1ViewController.m15762817746010160#2322"    cd /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Cardápio RU-generated-files.hmap" "-I/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Cardápio RU-own-target-headers.hmap" "-I/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Cardápio RU-all-target-headers.hmap" -iquote "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Cardápio RU-project-headers.hmap" -F/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator -I/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/include "-I/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/DerivedSources/i386" "-I/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/DerivedSources" -include "/var/folders/WA/WAT6qenFGPKPWoUrLz--JE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cardápio RU_Prefix-abkmtijapljxilepenujbmqtinhh/Cardápio RU_Prefix.pch" -c /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Classes/TesteIphone1ViewController.m -o "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/TesteIphone1ViewController.o"0#
+
+CCompileC "build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/main.o" /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/main.o" /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/MainWindow.xib
+s344063362.992471
+e344063363.717546
+r1
+xCompileXIB
+x/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib344063362#344063363#0(0"0(0#0#73"/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/MainWindow.xib8615492320#638"    cd /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/MainWindow.nib" /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/TesteIphone1ViewController.xib
+s344137744.592364
+e344137745.258620
+r1
+xCompileXIB
+x/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/TesteIphone1ViewController.xib
+lSLF07#2@41"CompileXIB TesteIphone1ViewController.xib344137744#344137745#0(0"0(0#0#89"/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/TesteIphone1ViewController.xib7309464706571723776#670"    cd /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/TesteIphone1ViewController.nib" /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/TesteIphone1ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/Cardápio RU.app/RU_APP_ICON_IOS.png" RU_APP_ICON_IOS.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/Cardápio RU.app/RU_APP_ICON_IOS.png" RU_APP_ICON_IOS.png
+r0
+
+CGenerateDSYMFile "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app.dSYM" "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Cardápio RU"
+r0
+
+CGenerateDSYMFile "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app.dSYM" "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Cardápio RU"
+s344063444.304122
+e344063444.328288
+r1
+xGenerateDSYMFile
+x/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app.dSYM
+x/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Cardápio RU
+lSLF07#2@131"GenerateDSYMFile "build/Debug-iphonesimulator/Cardápio RU.app.dSYM" "build/Debug-iphonesimulator/Cardápio RU.app/Cardápio RU"344063444#344063444#0(0"0(0#0#118"/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Cardápio RU8606296160#465"    cd /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Cardápio RU" -o "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app.dSYM"0#
+
+CLd "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Cardápio RU" normal i386
+r0
+
+CLd "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Cardápio RU" normal i386
+s344063444.246231
+e344063444.303989
+r1
+xLd
+x/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Cardápio RU
+xnormal
+xi386
+lSLF07#2@123"Link /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Cardápio RU344063444#344063444#0(0"0(0#0#0"8613305376#1034"    cd /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator -F/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator -filelist "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Cardápio RU.build/Debug-iphonesimulator/Cardápio RU.build/Objects-normal/i386/Cardápio RU.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Cardápio RU"0#
+
+CProcessInfoPlistFile "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Info.plist" "Cardápio RU-Info.plist"
+r0
+
+CProcessInfoPlistFile "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Info.plist" "Cardápio RU-Info.plist"
+s344063362.798250
+e344063362.992360
+r1
+xProcessInfoPlistFile
+x/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Info.plist
+xCardápio RU-Info.plist
+lSLF07#2@32"Process Cardápio RU-Info.plist344063362#344063363#0(0"0(0#0#83"/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/Cardápio RU-Info.plist8615978720#563"    cd /Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility "Cardápio RU-Info.plist" -genpkginfo "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app/Info.plist"0#
+
+CProcessPCH "/var/folders/WA/WAT6qenFGPKPWoUrLz--JE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cardápio RU_Prefix-abkmtijapljxilepenujbmqtinhh/Cardápio RU_Prefix.pch.gch" "Cardápio RU_Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH "/var/folders/WA/WAT6qenFGPKPWoUrLz--JE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cardápio RU_Prefix-abkmtijapljxilepenujbmqtinhh/Cardápio RU_Prefix.pch.gch" "Cardápio RU_Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app"
+r0
+
+CTouch "/Users/anderson/Documents/IphoneIpodDeveloper/TesteIphone1/build/Debug-iphonesimulator/Cardápio RU.app"
+r0
+
